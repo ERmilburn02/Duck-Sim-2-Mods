@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framerate Mod", "Framerate 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS2 Mod Helper", "DS2 Mod Helper\DS2 Mod Helper.csproj", "{AF92168F-C0F4-4130-8986-A13C5207B6EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speedrunner", "Speedrunner\Speedrunner.csproj", "{54BD685C-7A37-44E1-B0E1-99410FA6E3DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speedrunner (obsolete)", "Obsolete\Speedrunner\Speedrunner.csproj", "{54BD685C-7A37-44E1-B0E1-99410FA6E3DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

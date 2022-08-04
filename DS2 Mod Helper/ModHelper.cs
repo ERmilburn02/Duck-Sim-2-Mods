@@ -7,7 +7,7 @@ namespace DS2_Mod_Helper
 {
     public class ModHelper : MelonMod
     {
-        
+
     }
 
     public enum Scenes : int
@@ -39,6 +39,7 @@ namespace DS2_Mod_Helper
         ClassicClicker,
         ClassicShop,
         ClassicRebirth,
-        ClassicBossFight
+        ClassicBossFight,
+        TheEnd
     }
 }
