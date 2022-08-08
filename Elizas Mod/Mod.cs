@@ -1,15 +1,14 @@
 ﻿using MelonLoader;
 using UnityEngine;
-using System;
+using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Elizas_Mod
 {
     public class Mod : MelonMod
     {
+        bool rightScene = false;
+
         public override void OnApplicationStart()
         {
             
@@ -17,7 +16,6 @@ namespace Elizas_Mod
 
         public override void OnUpdate()
         {
-
         }
 
         public override void OnSceneWasLoaded(int buildIndex, string sceneName)
@@ -27,12 +25,12 @@ namespace Elizas_Mod
 
         public override void OnGUI()
         {
-            if (GUI.Button(new Rect((Screen.width / 2 - 7.5f), 10.0f, 15.0f, 20), "QUACKCORE"))
-            {
-                // PlayerPrefs.GetInt("quackcore") == 1
-                PlayerPrefs.SetInt("quackcore", 1);
-            }
+            if (GUILayout.Button("CREDITS")) LoadCredits();
+        }
 
+        void LoadCredits()
+        {
+            UnityEngine.SceneManagement.SceneManager.LoadScene((int)DS2_Mod_Helper.Scenes.Credits);
         }
     }
 }

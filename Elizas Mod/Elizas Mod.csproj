@@ -56,5 +56,11 @@
     <Compile Include="Mod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DS2 Mod Helper\DS2 Mod Helper.csproj">
+      <Project>{af92168f-c0f4-4130-8986-a13c5207b6ec}</Project>
+      <Name>DS2 Mod Helper</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
