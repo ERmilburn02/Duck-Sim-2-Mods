@@ -9,3 +9,4 @@ Mod | Version
 --- | ---
 Mod Helper | [v0.1.0](https://github.com/ERmilburn02/Duck-Sim-2-Mods/releases/tag/Mod-Helper-v0.1.0)
 Framerate Mod | [v0.2.0](https://github.com/ERmilburn02/Duck-Sim-2-Mods/releases/tag/Framerate-Mod-v0.2.0)
+Teleport Mod | [v0.1.0](https://github.com/ERmilburn02/Duck-Sim-2-Mods/releases/tag/Teleport-Mod-v0.1.0)
