@@ -8,18 +8,10 @@ namespace Teleport_Mod
     {
         private void Teleport(Scenes toScene)
         {
-            if (SpeedrunManager.instance != null)
-            {
-                if (SpeedrunManager.instance.isRunning)
-                {
-                    SpeedrunManager.instance.isRunning = false;
-                    GameObject.Destroy(SpeedrunManager.instance.gameObject);
-                }
-            }
-
             Cursor.lockState = CursorLockMode.None;
             Cursor.visible = true;
             UnityEngine.SceneManagement.SceneManager.LoadScene((int)toScene);
+            ModHelper.DisableSpeedrunMode();
         }
 
         public override void OnGUI()
