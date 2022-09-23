@@ -11,6 +11,6 @@ A collection of mods for Duck Simulator 2.
 
 Mod | Version | Downloads
 --- | --- | ---
-Mod Helper | [v0.1.0](https://github.com/ERmilburn02/Duck-Sim-2-Mods/releases/tag/Mod-Helper-v0.1.0) | ![](https://img.shields.io/github/downloads/ERmilburn02/Duck-Sim-2-Mods/Mod-Helper-v0.1.0/total?style=flat-square)
+Mod Helper | [v0.2.0](https://github.com/ERmilburn02/Duck-Sim-2-Mods/releases/tag/Mod-Helper-v0.2.0) | ![](https://img.shields.io/github/downloads/ERmilburn02/Duck-Sim-2-Mods/Mod-Helper-v0.2.0/total?style=flat-square)
 Framerate Mod | [v0.2.0](https://github.com/ERmilburn02/Duck-Sim-2-Mods/releases/tag/Framerate-Mod-v0.2.0) | ![](https://img.shields.io/github/downloads/ERmilburn02/Duck-Sim-2-Mods/Framerate-Mod-v0.2.0/total?style=flat-square)
-Teleport Mod | [v0.1.0](https://github.com/ERmilburn02/Duck-Sim-2-Mods/releases/tag/Teleport-Mod-v0.1.0) | ![](https://img.shields.io/github/downloads/ERmilburn02/Duck-Sim-2-Mods/Teleport-Mod-v0.1.0/total?style=flat-square)
+Teleport Mod | [v0.2.0](https://github.com/ERmilburn02/Duck-Sim-2-Mods/releases/tag/Teleport-Mod-v0.2.0) | ![](https://img.shields.io/github/downloads/ERmilburn02/Duck-Sim-2-Mods/Teleport-Mod-v0.2.0/total?style=flat-square)
