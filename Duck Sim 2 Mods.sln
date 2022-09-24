@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elizas Mod", "Elizas Mod\El
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleport Mod", "Teleport Mod\Teleport Mod.csproj", "{BD051045-6121-4BA3-A361-B6A48562AE17}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Obsolete", "Obsolete", "{7137AA47-9BF8-4736-8412-00089C986665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speedrun", "Speedrun\Speedrun.csproj", "{BA1B6802-1E30-4A11-AB93-8201D7FFDE25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,9 +43,16 @@ Global
 		{BD051045-6121-4BA3-A361-B6A48562AE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD051045-6121-4BA3-A361-B6A48562AE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD051045-6121-4BA3-A361-B6A48562AE17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1B6802-1E30-4A11-AB93-8201D7FFDE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1B6802-1E30-4A11-AB93-8201D7FFDE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1B6802-1E30-4A11-AB93-8201D7FFDE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1B6802-1E30-4A11-AB93-8201D7FFDE25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{54BD685C-7A37-44E1-B0E1-99410FA6E3DF} = {7137AA47-9BF8-4736-8412-00089C986665}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {389AEB11-443E-43E1-95A6-A7F2000562AF}

@@ -25,12 +25,13 @@ namespace Elizas_Mod
 
         public override void OnGUI()
         {
-            if (GUILayout.Button("CREDITS")) LoadCredits();
+            if (GUILayout.Button("FPS1")) LoadLevel(DS2_Mod_Helper.Scenes.fpsLevel1);
+            if (GUILayout.Button("PLATFORMER7")) LoadLevel(DS2_Mod_Helper.Scenes.platformerLevel7);
         }
 
-        void LoadCredits()
+        void LoadLevel(DS2_Mod_Helper.Scenes scene)
         {
-            UnityEngine.SceneManagement.SceneManager.LoadScene((int)DS2_Mod_Helper.Scenes.Credits);
+            UnityEngine.SceneManagement.SceneManager.LoadScene((int)scene);
         }
     }
 }
