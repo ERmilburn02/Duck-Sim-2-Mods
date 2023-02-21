@@ -1,6 +1,6 @@
 # Duck Simulator 2 Mods
 [![discord](https://img.shields.io/discord/1005145130145169418?style=flat-square)](https://discord.gg/dzMy89MTe8)
-[![build](https://img.shields.io/github/workflow/status/ERmilburn02/Duck-Sim-2-Mods/build?style=flat-square)](https://img.shields.io/github/actions/workflow/status/ERmilburn02/Duck-Sim-2-Mods/build.yml?branch=main)
+[![build](https://img.shields.io/github/actions/workflow/status/ERmilburn02/Duck-Sim-2-Mods/build-validation.yml?branch=main&style=flat-square)](https://github.com/ERmilburn02/Duck-Sim-2-Mods/actions/workflows/build-validation.yml)
 [![downloads](https://img.shields.io/github/downloads/ERmilburn02/Duck-Sim-2-Mods/total?style=flat-square)](https://github.com/ERmilburn02/Duck-Sim-2-Mods/releases)
 [![issues](https://img.shields.io/github/issues/ERmilburn02/Duck-Sim-2-Mods?style=flat-square)](https://github.com/ERmilburn02/Duck-Sim-2-Mods/issues)
 [![license](https://img.shields.io/github/license/ERmilburn02/Duck-Sim-2-Mods?style=flat-square)](https://github.com/ERmilburn02/Duck-Sim-2-Mods/blob/main/LICENSE)
